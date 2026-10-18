@@ -1,4 +1,4 @@
-# Advanced Password Generator (apg) — C++
+# Advanced Password Generator in C++
 
 Command-line password generator written in C++17.
 
